@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @masri-oussama
-- 👀 I’m interested in Data / AI
-- 🌱 I’m currently learning Data Science
+# Hi there 👋, I'm Oussama Masri  
+🚀 Data Science & AI Enthusiast | 💻 NLP Master's Student | 📊 Data Analyst
 
+## 👨‍💻 About Me
+- 🎓 Currently pursuing a Master's in **Natural Language Processing (NLP)** at Université de Lorraine (France).  
+- 💡 Passionate about **Machine Learning, NLP, and AI applications**.  
+- 📚 Previously completed a Bachelor's in **Data Science**.  
+- 🧑‍🏫 3-month Data Science internship with hands-on experience in **Dataiku, ML models, and feature engineering**.  
+- 🌍 From Lebanon, based in France.  
 
-<!---
-masri-oussama/masri-oussama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills & Tools  
+- **Languages:** Python, SQL, R  
+- **ML/DL:** Scikit-learn, TensorFlow, PyTorch, Hugging Face  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Git, Dataiku, Jupyter, VS Code  
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/oussama-masri/)  
+- ✉️ Email: oussama.masri28@gmail.com
